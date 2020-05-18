@@ -14,7 +14,7 @@ icon = pygame.image.load('battleship.png')
 pygame.display.set_icon(icon)
 
 # Fighter
-fighter_image = pygame.image.load('battleship.png')
+fighter_image = pygame.image.load('gaming.png')
 fighter_imageX = 400
 fighter_imagey = 650
 
